@@ -2,7 +2,7 @@
 
 How to Setup github project in Your System
 
-<h4>Step:1 Login your Github Account ( <a href="http://git.indianic.com/users/sign_in">Click Here</a> ).</h4>
+<h4>Step:1 Login your Github Account ( <a href="https://gitlab.letschbang.com/users/sign_in">Click Here</a> ).</h4>
 
 <img src="http://php71.indianic.com/ritikakankani/image/SigninGitLab.png" />
 
@@ -104,7 +104,7 @@ wp-content/plugins/hello.php
 <img src="http://php71.indianic.com/ritikakankani/image/terminal_8.png" />
 <hr>
 <p>- Create Your branch </p>
-<p> Step 1: <b>git checkout -b dev_bhavesh</b> </p>
+<p> Step 1: <b>git checkout -b dev_rajat</b> </p>
 <p> Step 2: <b>git branch</b></p>
 <img src="http://php71.indianic.com/ritikakankani/image/terminal_9.png" />
 <p> Step 3: <b>ls</b></p>
