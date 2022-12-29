@@ -1,1 +1,1 @@
-# wp-setup-git
+Setup git project in Ubantu or Mac and Window
